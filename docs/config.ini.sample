@@ -1,0 +1,9 @@
+[General]
+config_dir = C:\Users\username\.config\sharefile-tui
+subdomain = youroranization.sharefile.com
+
+[Credentials]
+client_id = 6eZUppDGH2CqgmHC0w2gbWgoZTt9KMcH
+client_secret = dH3N2LHr4WiHzcE28fMG4SnhBuI6GzcZzTXjEnJdvta7986C
+username = first.last@domain.com
+password = omrrjjlto33cgjvg
