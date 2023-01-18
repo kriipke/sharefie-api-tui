@@ -22,11 +22,7 @@ from rich.live import Live
 from rich.text import Text
 from rich.table import Table
 
-rawUrl = 'https://storage-usw-121.sharefile.com/download.ashx?dt=dt5f63254bd85f4ba4464e00552c807c64&cid=3oZttEpJ52U2kBxBgbRIf2fme6pfaCQV&zoneid=zp68549224-de4a-4a86-d9f2-9868fs3fc9&exp=1674076760&zsid=F7&h=LIh9udygee2a8I59qPzH%2FZ8Xlpk2CwhaaAgHgGJ0Ge8%3D'
-rawUrl = 'https://docs.python.org/3/howto/urllib2.html?q=alkdsjf'
-rawUrl = 'https://spencersmolen.sf-api.com/sf/v3/Users'
-rawUrl = 'https://spencersmolen.sf-api.com/sf/v3/Users(251db3cf-3b99-479e-976c-d560570f7068)'
-
+rawUrl = 'https://sample.sf-api.com/sf/v3/Users'
 
 def authenticate(hostname, client_id, client_secret, username, password):
     """ Authenticate via username/password. Returns json token object.

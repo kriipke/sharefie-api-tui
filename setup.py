@@ -6,7 +6,7 @@ setup(
         'rich'
     ]
     entry_points={
-        'console_scripts': ['sfapi=sharefile-tui.tui:main']
+        'console_scripts': ['sfapi=sharefile_tui.tui:main']
     }
 )
 )
